@@ -9,14 +9,14 @@
   
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/mjgiannelli/challenge-9-professional-README-generator.git"
+      "url": "git+https://github.com/MatthewGrisham/README-generator.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/mjgiannelli/challenge-9-professional-README-generator/issues"
+      "url": "https://github.com/MatthewGrisham/README-generator/issues"
     },
-    "homepage": "https://github.com/mjgiannelli/challenge-9-professional-README-generator#readme",
+    "homepage": "https://github.com/MatthewGrisham/README-generator#readme",
     "dependencies": {
       "inquirer": "^8.1.1"
     }
